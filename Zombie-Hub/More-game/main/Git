@@ -15,13 +15,13 @@ tab.newButton("fly, aimbot, All Game", "By: Oderi", function()
 
 end)
 
-tab.newButton("ArcBang", "By: Oderi", function()
+tab.newButton("Blox Fruit", "By: Zombie Hub", function()
  
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Wiryyx/PersonH/main/SystemBrokRemastered"))()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Basicallyy/Basicallyy/main/Min_XT_V2_.lua")()
 
 end)
 
-tab.newButton("Doors Magnet", "By: Oderi", function()
+tab.newButton("Doors Magnet", "By: Zombie Hub", function()
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/MagnetByNerd.lua"))()
 
@@ -33,7 +33,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Unknownproootest/Blox
 
 end)
 
-tab.newButton("GigaChat Hub", "By: Zombie Hab", function()
+tab.newButton("GigaChat Hub (No work)", "By: Zombie Hab", function()
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LolPrivate/Side/main/Gigachad%20Hub%20V7.lua", true))()
 
